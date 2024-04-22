@@ -2,7 +2,7 @@ package primerospasos
 
 import "fmt"
 
-func PracticasEnGo() {
+func primerospasos() {
 	//Practicas en goland
 	fmt.Println("Pruebas de texto por pantalla")
 	fmt.Println("Pruebas de texto por pantalla otra linea mas DOS")
@@ -15,6 +15,7 @@ func PracticasEnGo() {
 	//variables
 	var edad = 34
 	var coche = "Mercedes"
+	coche = "Toyota"
 
 	// Con coma podemos concatenar valores
 	fmt.Println("Mi edas es :", edad)

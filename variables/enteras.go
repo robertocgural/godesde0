@@ -2,7 +2,7 @@ package variables
 
 import "fmt"
 
-func MostroEnteros() {
+func MuestroEnteros() {
 	var intcomun int
 	intde32 := int32(10)
 	intde64 := int64(100)

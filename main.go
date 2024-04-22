@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	//variables.MostroEnteros()
+	variables.MuestroEnteros()
 	//primerospasos.PracticasEnGo()
 	//variables.RestoVariables()
 	estado, texto := variables.ConviertoaTexto(1588)
